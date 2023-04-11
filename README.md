@@ -1,10 +1,14 @@
-# Material-You---Status-Saver
-Status Saver - Video &amp; Photo Downloader for your WhatsApp 
+<p align="center">
+  <a href=""><img width="200" height="200" src="https://firebasestorage.googleapis.com/v0/b/paperscan-8cef2.appspot.com/o/Icon%20(2).png?alt=media&token=32daa49a-a8e2-4cc4-bf22-a131020860c5"></a>
+</p>
+<h1 align="center">Material You - Status Saver</h1>
 
 
-| Play Store (Live) |
-|--------|-------|----------------|------------|-------|
-| [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.status.saver.video)
+<h2 align="center">Downloads</h2>
+
+<div align="center">
+<a href="https://play.google.com/store/apps/details?id=com.status.saver.video"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="65"</img></a>
+</div>
 
 
 # <img src="https://firebasestorage.googleapis.com/v0/b/paperscan-8cef2.appspot.com/o/Icon%20(2).png?alt=media&token=32daa49a-a8e2-4cc4-bf22-a131020860c5" width="40"> Material You - Status Saver
