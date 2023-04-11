@@ -43,7 +43,7 @@ Features include:
 
 
 ## ⬇️ Download
-Get the app from PlayStore [releases page](https://play.google.com/store/apps/details?id=com.status.saver.video).
+Get the app from PlayStore [Link](https://play.google.com/store/apps/details?id=com.status.saver.video).
 
 
 
